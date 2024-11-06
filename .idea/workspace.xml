@@ -5,19 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60d858b2-25ae-4fb0-b52f-68948f27b7ef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/folder1/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/folder1/file1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/folder5/file5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/folder5/file5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2024_20_08_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2024_20_08__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ0711/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ0711/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ0711/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ0711/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ0711/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ0711/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ0711/7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="newbranch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,8 +47,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.2.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.6.executor": "Run",
+    "Python.7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "newbranch"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
